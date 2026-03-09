@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ragul! 👋
 
-<!--
-**ragul1104/ragul1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-semester **Bachelor of Computer Applications (BCA)** student at **Periyar University**. I am passionate about **Cybersecurity**, **Cryptography**, and building secure **Web Applications**. 
 
-Here are some ideas to get you started:
+### 🛡️ What I'm currently working on:
+- 🔐 **EmojiGuard (Emojicrypt):** A web application designed for secure communication using text-to-emoji cryptographic techniques.
+- 🎓 Finalizing my BCA degree and preparing for a career in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- **Languages:** JavaScript, Python (Learning), SQL
+- **Web Development:** HTML5, CSS3, React/Frontend frameworks
+- **Tools & Interests:** Cryptography, Network Security, Git/GitHub, Linux
+
+### 📊 GitHub Stats:
+![Ragul GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### 📫 Let's Connect:
+- 📍 Based in: Krishnagiri, Tamil Nadu
+- ⚡ Fun Fact: When I'm not coding or studying, you'll find me on the basketball court or training for my next long-distance run.
