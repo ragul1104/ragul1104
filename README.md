@@ -12,7 +12,7 @@ I am a final-semester **Bachelor of Computer Applications (BCA)** student at **P
 - **Tools & Interests:** Cryptography, Network Security, Git/GitHub, Linux
 
 ### 📊 GitHub Stats:
-![Ragul GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ragul GitHub stats](https://github.com/ragul1104)
 
 ### 📫 Let's Connect:
 - 📍 Based in: Krishnagiri, Tamil Nadu
