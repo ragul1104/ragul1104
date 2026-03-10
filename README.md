@@ -55,7 +55,7 @@
   <a href="mailto:rag7674@gmail.com" style="margin: 0 25px;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="55" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ragul-v-608322326" style="margin: 0 25px;">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ragulv11" style="margin: 0 25px;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="55" />
   </a>
    <a href="https://www.instagram.com/in/https://www.instagram.com/mr._crazy_evil?igsh=MW4zZXpvc2podGlzMQ==" style="margin: 0 25px;">
